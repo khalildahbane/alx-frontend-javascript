@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // for each attribute there is a getter and setter
 export default class HolbertonCourse {
   constructor(name, length, students) {
@@ -47,3 +48,5 @@ export default class HolbertonCourse {
     this._students = students;
   }
 }
+=======
+>>>>>>> 5306f659707d7f97d087c3c07ebc611bcd71ecdc
